@@ -13,7 +13,7 @@ def start(message):
     item2 = types.KeyboardButton("Красный бархат")
     item3 = types.KeyboardButton("Торт вупи пай")
     item4 = types.KeyboardButton("Чизкейк Нью Йорк")
-    item5 = types.KeyboardButton("Чёрный лес торт")
+    item5 = types.KeyboardButton("Черный лес торт")
     item6 = types.KeyboardButton("Торт орео")
 
  
